@@ -1,7 +1,7 @@
 # MathQuestion
 
 Out of boredom, I decided to recall the following equation:
-[](https://latex.codecogs.com/gif.latex?\frac{d}{dx}x^2=\frac{d}{dx}[\underbrace{x&plus;x&plus;\cdots&plus;x}_{(x\text{&space;times})}])
+![](https://latex.codecogs.com/gif.latex?\frac{d}{dx}x^2=\frac{d}{dx}[\underbrace{x&plus;x&plus;\cdots&plus;x}_{(x\text{&space;times})}])
 $\frac{d}{dx}x^2=\frac{d}{dx}[\underbrace{x+x+\cdots+x}_{(x\text{ times})}]$
 
 Then taking derivative on both side with respect to $x$:
