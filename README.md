@@ -4,7 +4,7 @@ Out of boredom, I decided to recall the following equation:
 
 ![](https://latex.codecogs.com/gif.latex?x^2=\underbrace{x&plus;x&plus;\cdots&plus;x}_{(x\text{&space;times})})
 
-Then taking derivative on both side with respect to $x$:
+Then taking derivative on both side with respect to x:
 
 ![](https://latex.codecogs.com/gif.latex?\frac{d}{dx}x^2=\frac{d}{dx}[\underbrace{x&plus;x&plus;\cdots&plus;x}_{(x\text{&space;times})}])
 
