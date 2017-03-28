@@ -10,7 +10,7 @@ Then taking derivative on both side with respect to $x$:
 
 ![](https://latex.codecogs.com/gif.latex?2x=1&plus;1&plus;\cdots&plus;1=x)
 
-$2=1$
+2=1
 
 I wrote a Tensorflow code to verify:
 
