@@ -17,7 +17,7 @@ I wrote a Tensorflow code to verify:
 ```python
 import tensorflow as tf
 
-x = tf.get_variable('x', [], tf.int32, initializer=tf.constant_initializer(1))
+x = tf.Variable(1)
 r1 = x*x
 g1 = tf.gradients(r1,x)
 i, t = tf.constant(0), tf.constant(0)
